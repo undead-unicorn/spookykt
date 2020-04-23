@@ -1,0 +1,3 @@
+pretty simple, go to your Steam/steamapps/common/Spooky's House of Jump Scares directory, go into the data folder then just drag and drop all the contents of this .rar file into it. If it asks if you want to replace anything, just click yes.
+
+to uninstall, just right click on Spooky's Jumpscare Mansion on steam, click properties, click the Local Files tab then click "Verify Integrity of Games Files...
